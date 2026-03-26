@@ -5,10 +5,10 @@
 
 ## ORGANIZACIÓN
 ### 18/MARZO
-Tabla del 9.dfd
-Tablas de multiplicar.dfd
-Tablas de multiplicar desde y hasta.dfd
-Software.dfd
+- Tabla del 9.dfd
+- Tablas de multiplicar.dfd
+- Tablas de multiplicar desde y hasta.dfd
+- Software.dfd
 ### 25/MARZO
 - MQ.dfd
 - MQ y OR.dfd
