@@ -1,7 +1,7 @@
 # DFD-Trabajo-Diagrama-de-Flujo-Ciclos
 
 ## Creado por:
-- Elias Samuel Rojas Monroy 1 – 1108018
+- Elias Samuel Rojas Monroy – 1108018
 
 ## ORGANIZACIÓN
 ### 18/MARZO
